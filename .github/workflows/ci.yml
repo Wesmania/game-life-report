@@ -1,0 +1,35 @@
+name: CI
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  build-and-publish-docs:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/wesmania/game-life-report-docker:docker
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Build the docs
+        run: |
+          make html
+      - name: Publish docs to github pages
+        uses: peaceiris/actions-gh-pages@v4
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        with:
+          publish_branch: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: build/html
+          force_orphan: true
+      - name: Zip up html
+        run: |
+          cd build
+          zip -r game-life-report-html.zip html
+      - name: Publish html
+        uses: actions/upload-artifact@v4
+        with:
+          name: game-life-report-html
+          path: build/game-life-report-html.zip
