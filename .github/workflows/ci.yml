@@ -18,7 +18,7 @@ jobs:
           make html
       - name: Publish docs to github pages
         uses: peaceiris/actions-gh-pages@v4
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         with:
           publish_branch: gh-pages
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -33,3 +33,15 @@ jobs:
         with:
           name: game-life-report-html
           path: build/game-life-report-html.zip
+  link-artifacts:
+    runs-on: ubuntu-latest
+    needs: build-and-publish-docs
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Publish artifact links
+        uses: beni69/artifact-link@v1
+        if: ${{ github.event_name == 'pull_request'}}
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
