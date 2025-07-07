@@ -12,7 +12,7 @@ not killing games is a good thing. If we won't do it, videogame industry lobbyis
 
 * Look at the issue list. Do things from there. This might be searching for data, writing documents, preparing graphics
   or screenshots.
-  * Contribute however you want: patebin, attaching documents, whatever. If you know how to use git, clone the
+  * Contribute however you want: pastebin, attaching documents, whatever. If you know how to use git, clone the
     repository and make pull requests, either for yourself or for other people.
 * Brainstorm more ideas on forums. Suggest things to do.
 

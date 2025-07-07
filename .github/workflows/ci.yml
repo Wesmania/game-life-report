@@ -18,6 +18,7 @@ jobs:
       - name: Build the docs
         run: |
           make html
+          make latexpdf
       - name: Zip up html
         run: |
           cd build
@@ -27,6 +28,11 @@ jobs:
         with:
           name: game-life-report-html
           path: build/game-life-report-html.zip
+      - name: Save pdf artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: game-life-report-pdf
+          path: build/latex/game-life-report.pdf
       - name: Publish docs to github pages
         uses: peaceiris/actions-gh-pages@v4
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
