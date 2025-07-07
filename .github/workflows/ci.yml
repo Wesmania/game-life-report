@@ -26,12 +26,12 @@ jobs:
       - name: Save html artifact
         uses: actions/upload-artifact@v4
         with:
-          name: game-life-report-html
+          name: HTML_report
           path: build/game-life-report-html.zip
       - name: Save pdf artifact
         uses: actions/upload-artifact@v4
         with:
-          name: game-life-report-pdf
+          name: PDF_report
           path: build/latex/game-life-report.pdf
       - name: Publish docs to github pages
         uses: peaceiris/actions-gh-pages@v4
