@@ -20,6 +20,11 @@ not killing games is a good thing. If we won't do it, videogame industry lobbyis
 * Brainstorm more ideas. Suggest things to do. [This](https://github.com/Wesmania/game-life-report/issues/7) is a github
   issue for you to post in if you have ideas.
 
+## License
+
+In short, all docs in this repo are meant to be public domain. DO NOT COPYPASTE RANDOM CRAP AND PASS IT OFF AS YOURS. If
+you want to quote something, quote a reasonable amount and provide a link.
+
 ## How to contribute if you know git
 
 Clone the repository and make pull requests, either for yourself or for other people. Pull requests have Github actions
