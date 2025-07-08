@@ -270,6 +270,9 @@ TODO: should anything else be mentioned here? Examples:
   justification to kill them once they stop being profitable. It is not the
   newness of the content that is the value added, it is the content itself.
 
+* Requiring games to have an end-of-life plan will not hurt small games, nor
+  will it discourage innovation.
+
 Conclusion
 ----------
 

@@ -14,9 +14,7 @@ not killing games is a good thing. If we won't do it, videogame industry lobbyis
 
 * Look at the ["Deere in the headlights"](https://pirg.org/edfund/resources/deere-in-the-headlights-3/) report to get
   the idea how a report explaining a thing to politicians should look like.
-* Look at the main document:
-  [source/index.rst](https://github.com/Wesmania/game-life-report/blob/master/source/index.rst). Look for "TODO" and
-  "FIXME". Prepare something to fill them in.
+* Look at the .rst documents in the "source" directory. Look for "TODO" and "FIXME". Prepare something to fill them in.
 * Look at the [issue list](https://github.com/Wesmania/game-life-report/issues). Do things from there. This might be
   searching for data, writing documents, preparing graphics or screenshots. Do this however you want: pastebin,
   attaching documents, forum posts, whatever.
