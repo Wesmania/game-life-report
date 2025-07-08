@@ -14,11 +14,25 @@ not killing games is a good thing. If we won't do it, videogame industry lobbyis
 
 * Look at the ["Deere in the headlights"](https://pirg.org/edfund/resources/deere-in-the-headlights-3/) report to get
   the idea how a report explaining a thing to politicians should look like.
+* Look at the main document:
+  [source/index.rst](https://github.com/Wesmania/game-life-report/blob/master/source/index.rst). Look for "TODO" and
+  "FIXME". Prepare something to fill them in.
 * Look at the [issue list](https://github.com/Wesmania/game-life-report/issues). Do things from there. This might be
   searching for data, writing documents, preparing graphics or screenshots. Do this however you want: pastebin,
   attaching documents, forum posts, whatever.
 * Brainstorm more ideas. Suggest things to do. [This](https://github.com/Wesmania/game-life-report/issues/7) is a github
   issue for you to post in if you have ideas.
+* Check the [Video Games Europe position
+  paper](https://www.videogameseurope.eu/wp-content/uploads/2025/07/VGE-Position-Discontinuation-of-Support-to-Online-Games-04072025.pdf)
+  for any points we may not have addressed.
+* Look at ["Deere in the headlights
+  II"](https://publicinterestnetwork.org/wp-content/uploads/2022/02/Deere-In-The-Headlights-II.pdf)
+  for more inspiration.
+
+## Tips
+
+* Check [this guide](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) for text formatting tips.
+  * And here's a [cheat sheet](https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.pdf).
 
 ## License
 
