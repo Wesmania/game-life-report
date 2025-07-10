@@ -10,6 +10,12 @@ Title page will go here.
 Summary
 -------
 
+STATUS
+======
+
+Initial draft is written. Check the :ref:`chapter<Summary>`.
+
+
 This is about videogames. Games are multiplayer. Videogame companies started
 doing something and we argue that it's bad, something should be done about it.
 They say it's necessary, we prove they're wrong.
