@@ -10,11 +10,13 @@ Title page will go here.
 Summary
 -------
 
-STATUS
-======
+Status
+^^^^^^
 
 Initial draft is written. Check the :ref:`chapter<Summary>`.
 
+Notes
+^^^^^
 
 This is about videogames. Games are multiplayer. Videogame companies started
 doing something and we argue that it's bad, something should be done about it.
