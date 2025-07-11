@@ -5,9 +5,8 @@ Video games, multiplayer and servers
 
 In order to get a picture of how hard or easy it is to support a server for a
 video game, one needs to understand how online multiplayer works. This chapter
-show examples how a multiplayer game can work and aims to show that it is
-possible for a community of players to support it once a publisher ends
-official support.
+shows examples how a multiplayer game can work, and that it possible for a
+community of players to support a gamd once a publisher ends official support.
 
 Video games are, at their core, programs that a player runs on his computer.
 They run their code on the machine, output graphics and sound and react to
