@@ -29,7 +29,7 @@ They say it's necessary, we prove they're wrong.
   * It used to be a game had a multiplayer mode and came on disk and you always
     owned it.
 
-  * Over time it changed: DRM, always online, not owning games. **Examples.**
+  * Over time it changed: DRM, always online, not owning games.
 
 * Why it's bad.
 
@@ -42,9 +42,9 @@ They say it's necessary, we prove they're wrong.
 
   * Some kind of elegant justification that videogames are also cultural works
     and just like taking away books feels authoritarian and taboo, the same
-    should happen for videogames.
+    should happen for videogames. (TODO: not necessary, too preachy?)
 
-* Briefly why videogame industry defends it.
+* Briefly why videogame industry defends it. (TODO: maybe not, not relevant yet.)
 
   * Claims that it's too expensive to do. Say it's not.
 
@@ -53,7 +53,8 @@ They say it's necessary, we prove they're wrong.
   * Claims that they'd have to protect their property in one day or another.
     Say they wouldn't.
 
-* Show that gamers don't like it.
+* Show that gamers don't like it. (TODO: maybe not, laws are more important
+  than ourage.)
 
   * Piracy, specifically in light of wanting to own your game.
 
@@ -96,6 +97,15 @@ introduction.
 
 Technical stuff part 1: multiplayer videogames
 ----------------------------------------------
+
+Status
+^^^^^^
+
+Initial draft is partially written. Missing section with examples of community
+servers. Check the :ref:`chapter<Technical stuff part 1>`.
+
+Notes
+^^^^^
 
 * Videogames are programs you run on your computer and interact with. They can
   run only on your PC, or they can talk with other things on the Internet.
