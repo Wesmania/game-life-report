@@ -48,7 +48,8 @@ Today's video game terms of sale make them neither a good which a customer can
 keep forever, nor a service that the customer knows the duration of. This
 unclear status hurts customers, who buy video games expecting them to be goods,
 but whose games can (and often do) get broken by the publisher whenever it
-decides to shut down its servers. This report argues that:
+decides to shut down its servers. This report argues that [TODO I'm not
+satisfied with these points]:
 
 * The main issue is that publishers do not design their video games to still
   work after the publisher's servers are shut down,
