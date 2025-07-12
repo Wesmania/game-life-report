@@ -109,19 +109,26 @@ server-side.
 A fan implementation of the game's server called "SCoRE" was developed in
 secret since shutdown of the official servers, until its existence was leaked
 in 2019. [3]_ There are multiple private servers operated using this fan
-implementation, with the largest called "Homecoming" boasting 1500 concurrent
-players. [4]_ In 2024, developers of the "Homecoming" server were granted by the
-publisher NCsoft an official license to host the game. [5]_
+implementation, with the largest called "Homecoming" having over 100,000 total
+players. [4]_ In 2024, developers of the "Homecoming" server were granted by
+the publisher NCsoft an official license to host the game. [5]_
+
+The "Homecoming" server developers operate multiple types of services,
+including 7 map hosts, 4 high-availability database servers, spare servers to
+handle failures, development infrastructure, forum, website, content delivery
+network (CDN), as well as rented third party services such as an email service
+and an SMS service. The infrastructure is supported by donations from the
+community. [6]_
 
 Battleforge
 ^^^^^^^^^^^
 
 Battleforge is an online-only real time strategy game released by Electronic
 Arts in 2009. Official servers have been shut down in 2013, making the game
-inoperable. [6]_
+inoperable. [7]_
 
 A fan server implementation "Skylords Reborn" started development in 2015 and
-was released in 2020. [7]_. Today Skylords Reborn has over 100,000 registered
+was released in 2020. [8]_ Today Skylords Reborn has over 100,000 registered
 player accounts. [TODO: describe server infrastructure here. I asked about it
 on Skylords Reborn discord.]
 
@@ -130,5 +137,6 @@ on Skylords Reborn discord.]
 .. [3] https://www.pcgamer.com/after-a-secret-server-shocked-the-community-100000-fans-are-finally-playing-city-of-heroes-again/
 .. [4] https://forums.homecomingservers.com/status/
 .. [5] https://www.vg247.com/city-of-heroes-ncsoft-licenses-fan-run-server-homecoming
-.. [6] https://web.archive.org/web/20130910060412/http://forums.battleforge.com/forum/showthread.php?t=80261
-.. [7] https://forum.skylords.eu/index.php?/topic/9024-want-to-help-improving-skylords-reborn-read-this-first/
+.. [6] https://forums.homecomingservers.com/topic/22730-finances-deep-dive/#comment-267977
+.. [7] https://web.archive.org/web/20130910060412/http://forums.battleforge.com/forum/showthread.php?t=80261
+.. [8] https://forum.skylords.eu/index.php?/topic/9024-want-to-help-improving-skylords-reborn-read-this-first/
