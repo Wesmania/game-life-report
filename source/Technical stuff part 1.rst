@@ -70,8 +70,66 @@ However, the fundamentals of these complex sets of servers are the same: it is
 a collection of programs that game clients send messages to and receive message
 from. There's nothing inherent about servers that requires the publisher
 specifically to operate them. And so, some games for which the official servers
-were shut down have been restored to a resonably playable state by their player
+were shut down have been restored to a reasonably playable state by fan
 communities.
 
-[TODO: one more section here that describes notable community server success
-stories.]
+Community servers
+-----------------
+
+Some multiplayer games that require complex server infrastructure were
+preserved by fan communities after the publisher ended support for multiplayer
+components. Not all of these games became non-functional after support ended;
+examples listed here serve as proof that such games can still be preserved and
+maintained by fans.
+
+Supreme Commander: Forged Alliance
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Supreme Commander: Forged Alliance is a real time strategy game released in
+2007. The game supports peer-to-peer online multiplayer. Its developer, Gas
+Powered Games, also operated a multiplayer service "GPGNet" which provided
+matchmaking, downloading player-made maps and mods, chat, archive of past
+multiplayer games and so on. GPGNet was shutdown in 2012. [1]_ Matchmaking
+continued to be available through Steam, leaving the game in a playable state.
+
+"FAForever" [2]_ is a fan project which works as a replacement for GPGNet. It
+provides matchmaking, player-made maps and mods, chat, past game archive, as
+well as new services like improved peer-to-peer connectivity and proxy servers.
+The server code is maintained by volunteers and runs on rented computers paid
+for by community donations.
+
+City of Heroes
+^^^^^^^^^^^^^^
+
+City of Heroes is a multiplayer role playing game (MMORPG) released in 2004. It
+operated until 2012 when the official servers were shut down. MMORPG servers
+are especially difficult to recreate because they maintain a persistent game
+word for hundreds of players, with much of game logic only calculated
+server-side.
+
+A fan implementation of the game's server called "SCoRE" was developed in
+secret since shutdown of the official servers, until its existence was leaked
+in 2019. [3]_ There are multiple private servers operated using this fan
+implementation, with the largest called "Homecoming" boasting 1500 concurrent
+players. [4]_ In 2024, developers of the "Homecoming" server were granted by the
+publisher NCsoft an official license to host the game. [5]_
+
+Battleforge
+^^^^^^^^^^^
+
+Battleforge is an online-only real time strategy game released by Electronic
+Arts in 2009. Official servers have been shut down in 2013, making the game
+inoperable. [6]_
+
+A fan server implementation "Skylords Reborn" started development in 2015 and
+was released in 2020. [7]_. Today Skylords Reborn has over 100,000 registered
+player accounts. [TODO: describe server infrastructure here. I asked about it
+on Skylords Reborn discord.]
+
+.. [1] https://web.archive.org/web/20140903143132/http://forums.gaspowered.com/viewtopic.php?f=67&t=57459
+.. [2] https://faforever.com/
+.. [3] https://www.pcgamer.com/after-a-secret-server-shocked-the-community-100000-fans-are-finally-playing-city-of-heroes-again/
+.. [4] https://forums.homecomingservers.com/status/
+.. [5] https://www.vg247.com/city-of-heroes-ncsoft-licenses-fan-run-server-homecoming
+.. [6] https://web.archive.org/web/20130910060412/http://forums.battleforge.com/forum/showthread.php?t=80261
+.. [7] https://forum.skylords.eu/index.php?/topic/9024-want-to-help-improving-skylords-reborn-read-this-first/
