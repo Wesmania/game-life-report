@@ -15,15 +15,17 @@ itself, there was no limitation as to when the game could be played. As long as
 the player had the hardware that was able to run the game, he could install and
 play the game on his computer or console.
 
-Today, many games both with and without multiplayer component connect to servers
-ran by the game's publisher, either for multiplayer functionality or as part of
-the game's Digital Rights Management (DRM). If the server is unavailable, the
-games often do not allow the player to play it. If the publisher decides to shut
-down the servers a game connects to, it can no longer be played. Many games are
-never updated to work without a publisher's server. Additionally, DRM schemes
-often make it impossible for players to fix their games so that they can work
-without a server. Out of such "shut down" games catalogued by the "Stop Killing
-Games" initiative, 63% of the games were never restored by players. [1]_
+Today, many games both with and without multiplayer component connect to
+servers ran by the game's publisher, either for multiplayer functionality or as
+part of the game's Digital Rights Management (DRM). If the server is
+unavailable, some games often do not allow the player to play it (such games
+are referred to as "online-only"). If the publisher decides to shut down the
+servers an online-only game connects to, it can no longer be played. Many
+online-only games are never updated to work without a publisher's server.
+Additionally, DRM schemes often make it impossible for players to fix their
+games so that they can work without a server. Out of such "shut down" games
+catalogued by the "Stop Killing Games" initiative, 63% were never restored by
+players. [1]_
 
 End user license agreements (EULA) for some modern video games contain clauses
 that reserve the right by the publisher to terminate the agreement at any time.
@@ -32,15 +34,15 @@ The EULA for Ubisoft's racing game "The Crew 2" states that:
   Termination by UBISOFT will be effective [...] at the time of UBISOFT’s
   decision to discontinue offering and/or supporting the Product. [2]_
 
-However, a player that buys a game for a one time fee expects the game to
-function like a book or a movie on a disk, i.e. a good. He expects his copy
-of the game to be playable at any time in the future as long as he has the right
-hardware, just like games sold two or more decades ago on physical media.
-Alternatively, should sale of the game be considered a service like a movie
-ticket, video game EULAs almost never specify at the moment of sale for how
-long a video game will be supported by the publisher. Ubisoft's racing game "The
-Crew" was sold all the way until December 2023, when Ubisoft announced the
-game's shutdown four months later. [3]_
+However, a player that buys a game for a one time fee expects it to function
+like a book or a movie on a disk, i.e. a good. He expects his copy of the game
+to be playable at any time in the future as long as he has the right hardware,
+just like games sold two or more decades ago on physical media. Alternatively,
+should sale of the game be considered a service like a movie ticket, video game
+EULAs almost never specify at the moment of sale for how long a video game will
+be supported by the publisher. Ubisoft's racing game "The Crew" was sold all
+the way until December 2023, when Ubisoft announced the game's shutdown four
+months later. [3]_
 
 [TODO: better legal justification for good/service argument]
 
