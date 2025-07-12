@@ -20,36 +20,35 @@ and it calculates and makes the move of a computer opponent.
    Pychess, a free chess program
 
 A video game that wants to support playing with other people over the Internet
-needs to be able to connect to and talk to another game running on another
-player's computer. From a programmer's point of view, the Internet is just
+needs to be able to connect to and talk to other games running on other
+players' computers. From a programmer's point of view, the Internet is just
 another input and output: the game sends messages out and reacts to messages
 coming in. For example, two chess programs can talk over the Internet,
 exchanging moves done by each player, each updating the state of the game
-independently. This style of online multiplayer is called "peer-to-peer".
-It is used for example by the original first person shooter game "Doom".
+independently. This style of online multiplayer is called "peer-to-peer". It is
+used for example by the original first person shooter game "Doom".
 
 .. figure:: assets/chess_example_2.png
    :width: 600
 
    Simple "peer-to-peer" multiplayer
 
-While simple, this style of multiplayer is difficult to work with in more
-complex games. Often it is easier to track the game's state in just one
-player's game. That player then acts like a "game master" or a "server" to all
-the other players (the "clients"), telling them what state the game is in.
+Peer-to-peer is not the only way one can implement online multiplayer. In more
+complex games and with many players, it is easier to have a sort of "referee"
+or a "game master": a separate program which keeps track of the game's state
+and which all other games talk to. Such a program is called a "server", while
+the games ran by the players that talk to this program are called "clients".
 
 .. figure:: assets/chess_example_3.png
    :width: 600
 
-   Game of risk. Player 1 is the "server" for players 2 and 3.
+   Game of risk. Three players are using a server to play.
 
-A variant of this "client-server" model is a so-called dedicated server. A
-dedicated server is a game program that is stripped of all the player-facing
-components like graphics and player input and which only talks over the
-internet and holds the game's state. In this model, all the players connect to
-such a server as client. Such a server is still just a program, so it can run
-on any computer. It can, for example, run on a player's own computer, or on a
-computer rented from a hosting company.
+A server is a program ran on a computer, just like the video game. In simplest
+cases the server program is just the game, just stripped of all the
+player-facing components like graphics and player input. Because a server is
+still just a program, it can run on any computer. It can, for example, run on a
+player's own computer, or on one rented from a hosting company.
 
 Today's AAA multiplayer videogames often rely on multiple dedicated servers
 that are much more complicated to setup that a single server program
