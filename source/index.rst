@@ -18,13 +18,13 @@ Initial draft is written. Check the :ref:`chapter<Summary>`.
 Notes
 ^^^^^
 
-This is about videogames. Games are multiplayer. Videogame companies started
+This is about video games. Games are multiplayer. Video game companies started
 doing something and we argue that it's bad, something should be done about it.
 They say it's necessary, we prove they're wrong.
 
 * Short history.
 
-  * Videogames are played, sometimes multiplayer.
+  * Video games are played, sometimes multiplayer.
 
   * It used to be a game had a multiplayer mode and came on disk and you always
     owned it.
@@ -40,11 +40,11 @@ They say it's necessary, we prove they're wrong.
     DVD, but games are taken away from them as if it's a service. (Vague.
     Describe that this is a legal gray area?)
 
-  * Some kind of elegant justification that videogames are also cultural works
+  * Some kind of elegant justification that video games are also cultural works
     and just like taking away books feels authoritarian and taboo, the same
-    should happen for videogames. (TODO: not necessary, too preachy?)
+    should happen for video games. (TODO: not necessary, too preachy?)
 
-* Briefly why videogame industry defends it. (TODO: maybe not, not relevant yet.)
+* Briefly why video game industry defends it. (TODO: maybe not, not relevant yet.)
 
   * Claims that it's too expensive to do. Say it's not.
 
@@ -54,7 +54,7 @@ They say it's necessary, we prove they're wrong.
     Say they wouldn't.
 
 * Show that gamers don't like it. (TODO: maybe not, laws are more important
-  than ourage.)
+  than outrage.)
 
   * Piracy, specifically in light of wanting to own your game.
 
@@ -95,7 +95,7 @@ If what is written up to here is not enough, another chapter might be
 necessary. It's a bit silly to expect someone to be convinced after just an
 introduction.
 
-Technical stuff part 1: multiplayer videogames
+Technical stuff part 1: multiplayer video games
 ----------------------------------------------
 
 Status
@@ -107,7 +107,7 @@ servers. Check the :ref:`chapter<Technical stuff part 1>`.
 Notes
 ^^^^^
 
-* Videogames are programs you run on your computer and interact with. They can
+* Video games are programs you run on your computer and interact with. They can
   run only on your PC, or they can talk with other things on the Internet.
 
 * Early multiplayer games. Games that just talk to each other over the
@@ -124,7 +124,7 @@ Notes
 Technical stuff part 2: DRM
 ---------------------------
 
-* Videogames used to be sold on physical medium and were just programs.
+* Video games used to be sold on physical medium and were just programs.
   This meant piracy. DRM was made to combat this.
 
 * Early DRM was physical: hard to photocopy manuals, creative burning of CDs
@@ -201,7 +201,7 @@ Technical stuff part 3: servers, communities and development cost
 Technical stuff conclusion:
 ---------------------------
 
-Videogame companies do not have to support games forever for them to live after
+Video game companies do not have to support games forever for them to live after
 being abandoned. Preparing the game to not die after it's released is not
 expensive and community support often means video companies only have to expend
 minimal effort, jest enough to not intentionally kill a game.
@@ -222,7 +222,7 @@ needed. Some ideas:
   after the game is abandoned.
 
   * I assume legal justification should be easy here? Open source software
-    already has "ABSOLUTELY NO WARRANTY" clauses. Do any videogames have the
+    already has "ABSOLUTELY NO WARRANTY" clauses. Do any video games have the
     same "no warranty" clauses as well? I'd expect them to.
 
 * Companies have no legal ground to come after community servers to protect
@@ -276,13 +276,13 @@ TODO: should anything else be mentioned here? Examples:
 * Community servers are NOT competition to the companies after the game is no
   longer supported, by definition.
 
-* Taking away game ownership is NOT an acceptable consequence of a videogame
+* Taking away game ownership is NOT an acceptable consequence of a video game
   company no longer wanting to support the online DRM. Give a good
   justification here!
 
 * Having to compete with older games is NOT a justification for killing them.
   It wasn't a justification for books, wasn't for radio shows and movies,
-  wasn't for theatre, isn't for videogames.
+  wasn't for theatre, isn't for video games.
 
 * The fact that online games receive updates with new content is NOT a
   justification to kill them once they stop being profitable. It is not the
@@ -299,13 +299,13 @@ Conclusion
   especially for games with some artistic merit or a good story. Wasn't
   Destiny's story pretty decent, despite Bungie being Bungie?
 
-* VGE makes this cynical argument about videogame preservation in museums and
+* VGE makes this cynical argument about video game preservation in museums and
   such. It would make a banger of an ending to refute that. If game code is
   preserved in a museum or an exhibition but no one can ever play and
   experience it ever again, can you call this game preserved? Would you call a
   book that no one can ever read preserved? Is a movie that no one can ever
   watch again because the technology to play the medium it is saved on no
-  longer exists, preserved? Is a videogame?
+  longer exists, preserved? Is a video game?
 
 A table of documents for stub chapters is listed below. You can fill in the
 files in this directory using the summaries above as a guide.

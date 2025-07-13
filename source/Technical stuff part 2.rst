@@ -49,7 +49,7 @@ While there is prior law e.g. in the US that allows players to circumvent the
 DRM in this situation [7]_, this can be unreasonably difficult to do because of
 game-side obfuscation techniques. Irdeto, company that develops Denuvo
 anti-tamper, claims that it can prevent debugging, reverse engineering and
-changing the application and that it can increase the time needed to cirumvent
+changing the application and that it can increase the time needed to circumvent
 protection to "weeks and months". [8]_ If not removed from the game, such tools
 effectively prevent players from circumventing DRM (as they might be allowed to
 do) and launching their game.

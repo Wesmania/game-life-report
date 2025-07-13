@@ -29,6 +29,7 @@ not killing games is a good thing. If we won't do it, videogame industry lobbyis
 
 ## Tips
 
+* Check [this guideline](https://www.vocaleurope.eu/guideline-for-submissions/) for writing policy papers.
 * Check [this guide](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) for text formatting tips.
   * And here's a [cheat sheet](https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.pdf).
 

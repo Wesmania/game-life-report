@@ -6,7 +6,7 @@ Video games, multiplayer and servers
 In order to get a picture of how hard or easy it is to support a server for a
 video game, one needs to understand how online multiplayer works. This chapter
 shows examples how a multiplayer game can work, and that it possible for a
-community of players to support a gamd once a publisher ends official support.
+community of players to support a game once a publisher ends official support.
 
 Video games are, at their core, programs that a player runs on his computer.
 They run their code on the machine, output graphics and sound and react to
@@ -50,7 +50,7 @@ player-facing components like graphics and player input. Because a server is
 still just a program, it can run on any computer. It can, for example, run on a
 player's own computer, or on one rented from a hosting company.
 
-Today's AAA multiplayer videogames often rely on multiple dedicated servers
+Today's AAA multiplayer video games often rely on multiple dedicated servers
 that are much more complicated to setup that a single server program
 described above. These can take different forms and be responsible for
 different things, such as:
