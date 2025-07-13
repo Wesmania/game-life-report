@@ -13,45 +13,50 @@ Summary
 Status
 ^^^^^^
 
-Initial draft is written. Check the :ref:`chapter<Summary>`.
+To be done. "Introduction" needs to be written first. Check the
+:ref:`chapter<Introduction>`.
+
+TODO: it's unclear how much summary should be in "summary" and how much content
+should be in "introduction". Treat them as fluid.
 
 Notes
 ^^^^^
 
 This is about video games. Games are multiplayer. Video game companies started
 doing something and we argue that it's bad, something should be done about it.
-They say it's necessary, we prove they're wrong.
+They say it's necessary, we prove they're wrong. Keep things brief, proper
+explanation should be in "Introduction".
+
+Introduction
+------------
+
+Status
+^^^^^^
+
+In progress. Check the :ref:`chapter<Introduction>`.
+
+Notes
+^^^^^
 
 * Short history.
 
-  * Video games are played, sometimes multiplayer.
+  * It used to be a game came on disk and you always owned it.
 
-  * It used to be a game had a multiplayer mode and came on disk and you always
-    owned it.
-
-  * Over time it changed: DRM, always online, not owning games.
+  * Now a game often no longer works when publisher ends support.
 
 * Why it's bad.
 
-  * Planned obsolescence, how many games are destroyed nowadays. Show stats,
-    prove that there is no recourse.
+  * Players expect games to work like a good, but they lose access when support ends.
 
-  * Players generally expect to keep the game like it's a book or a movie on a
-    DVD, but games are taken away from them as if it's a service. (Vague.
-    Describe that this is a legal gray area?)
+  * If it's a service, then terms of service do not specify the duration of
+    that service. (TODO vague?) Compare to other media.
 
-  * Some kind of elegant justification that video games are also cultural works
-    and just like taking away books feels authoritarian and taboo, the same
-    should happen for video games. (TODO: not necessary, too preachy?)
+* Claim that this can be fixed of end-of-life plans exist. Cite [this
+  directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0770&qid=1752431604873).
 
-* Briefly why video game industry defends it. (TODO: maybe not, not relevant yet.)
+  * It's not too expensive to do.
 
-  * Claims that it's too expensive to do. Say it's not.
-
-  * Claims that the companies would have to support games forever. Say they won't.
-
-  * Claims that they'd have to protect their property in one day or another.
-    Say they wouldn't.
+  * It won't mean supporting games forever.
 
 * Show that gamers don't like it. (TODO: maybe not, laws are more important
   than outrage.)
@@ -61,9 +66,6 @@ They say it's necessary, we prove they're wrong.
   * Brief examples, gamers protesting DRM like Spore or one of SimCity games.
 
 * Any mentions of movements prior to Stop Killing Games and prior laws.
-
-Introduction
-------------
 
 * Anecdotal stories of games being killed. Obviously we can't beat "Deere in
   the Headlights" in terms of tangible harm done to someone.
@@ -89,14 +91,11 @@ Introduction
 **NOTE: At this point the politician has to be convinced that we have a point
 and that games maybe shouldn't be killed. Much of the rest is spent justifying
 that the games don't have to die, that it's not hard to not kill them and that
-there's no good argument in favour of them dying.**
-
-If what is written up to here is not enough, another chapter might be
-necessary. It's a bit silly to expect someone to be convinced after just an
-introduction.
+there's no good argument in favour of them dying. Split introduction into
+subchapters if necessary.**
 
 Technical stuff part 1: multiplayer video games
-----------------------------------------------
+-----------------------------------------------
 
 Status
 ^^^^^^
